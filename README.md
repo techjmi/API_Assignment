@@ -1,3 +1,20 @@
+# React Data Fetching Project with Material-UI
+
+This project is a part of the training assignment given by Digukull. It demonstrates fetching data from an API in a React.js application and uses Material-UI for designing the user interface.
+
+## Features
+
+- Fetches data from an API (specifically [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)).
+- Utilizes Material-UI components for an aesthetically pleasing UI.
+- Implements a form to submit user data.
+
+## Technologies Used
+
+- React.js
+- Material-UI
+
+## Project Structure
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
